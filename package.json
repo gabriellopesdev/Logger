@@ -1,0 +1,23 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "Log API with NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabsLoops/Logger.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabsLoops/Logger/issues"
+  },
+  "homepage": "https://github.com/GabsLoops/Logger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^4.4.0"
+  }
+}
